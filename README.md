@@ -1,1 +1,2 @@
-# fb_mirea_02
+# Frontend & Backend разработка
+Лекция 02 "Формы ReactJS"
